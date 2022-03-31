@@ -1,0 +1,33 @@
+! 抖音
+||douyin.com^$important
+||douyincdn.com^$important
+||toutiao.com^$important
+||snssdk.com^$important
+||ixigua.com^$important
+||amemv.com^$important
+||bytedance.net^$important
+||bdurl.net^$important
+||douyincdn.com^$important
+||yximgs.com^$important
+! 迷你世界
+||mini1.cn^$important
+||app.mini1.cn^$important
+||en.mini1.cn^$important
+||friend.mini1.cn^$important
+||hostroom.mini1.cn^$important
+||hwmdownload.mini1.cn^$important
+||map0.mini1.cn^$important
+||map1.mini1.cn^$important
+||map24.mini1.cn^$important
+||map8.mini1.cn^$important
+||map9.mini1.cn^$important
+||mdownload.mini1.cn^$important
+||openroom.mini1.cn^$important
+||operate.mini1.cn^$important
+||operation.mini1.cn^$important
+||notice.pay.mini1.cn^$important
+||hwnotice.pay.mini1.cn^$important
+||online.svr.mini1.cn^$important
+||tj.mini1.cn^$important
+||wskacchm.mini1.cn^$important
+||www.mini1.cn^$important
