@@ -11,6 +11,7 @@
 ||bdurl.net^$important
 ||douyincdn.com^$important
 ||yximgs.com^$important
+||volcsiriusbd.com^$important
 ! 迷你世界
 ||mini1.cn^$important
 ||app.mini1.cn^$important
