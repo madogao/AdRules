@@ -1,6 +1,8 @@
 ! 抖音
 ||douyin.com^$important
 ||douyincdn.com^$important
+||douyinvod.com^$important
+||douyinvod.com.c.cdnhwc1.com^$important
 ||toutiao.com^$important
 ||snssdk.com^$important
 ||ixigua.com^$important
