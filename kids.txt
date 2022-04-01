@@ -12,6 +12,7 @@
 ||douyincdn.com^$important
 ||yximgs.com^$important
 ||volcsiriusbd.com^$important
+||douyinvod.com.ctdns.cn^$important
 ! 迷你世界
 ||mini1.cn^$important
 ||app.mini1.cn^$important
