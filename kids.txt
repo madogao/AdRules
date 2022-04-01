@@ -14,6 +14,7 @@
 ||volcsiriusbd.com^$important
 ||douyinvod.com.ctdns.cn^$important
 ||douyinstatic.com^$important
+||idouyinvod.com^$important
 ! 迷你世界
 ||mini1.cn^$important
 ||app.mini1.cn^$important
